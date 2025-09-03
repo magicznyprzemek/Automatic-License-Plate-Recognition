@@ -1,7 +1,8 @@
 # License Plate Recognition 
 
+### ENG
 This repository implements an end-to-end solution for Automatic License Plate Recognition (ALPR). It reads raw images and XML annotations, detects license plates with a pretrained YOLO model, runs OCR on detected crops, and computes metrics such as detection IoU and OCR accuracy.
-
+### PL
 To repozytorium zawiera kompleksowe rozwiązanie do automatycznego rozpoznawania tablic rejestracyjnych (ALPR). Wczytuje surowe obrazy i adnotacje w formacie XML, wykrywa tablice modelem YOLO, wykonuje OCR na wyciętych fragmentach i oblicza metryki, takie jak IoU detekcji oraz dokładność OCR.
 
 ## Setup ENG
