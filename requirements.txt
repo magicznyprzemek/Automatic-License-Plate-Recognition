@@ -1,0 +1,11 @@
+numpy==1.26.4
+pandas==2.2.2
+opencv-python-headless
+Pillow
+scikit-learn
+tqdm
+matplotlib
+kaggle
+paddlepaddle          # CPU lub GPU w zależności od sprzętu
+paddleocr
+ultralytics
